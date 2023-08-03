@@ -1,5 +1,14 @@
-### Hi there 👋
+# Stanislaw Ryazanov
 
+## Bio
+
+## Contact me
+- Resume:
+  - [In English]()
+  - [На Русском]()
+- Telegram: [@flowwwie](https://t.me/flowwwie)
+- Email: [stanisryaz@ya.ru](mailto:{stanisryaz@ya.ru})
+- Phone: +7(906)749-21-11
 <!--
 **extracheesypizza/extracheesypizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
