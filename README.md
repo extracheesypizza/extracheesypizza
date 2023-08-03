@@ -5,7 +5,7 @@
 ## Contact me
 - Resume:
   - [In English]()
-  - [На Русском]()
+  - [На Русском](cv_ru.pdf)
 - Telegram: [@flowwwie](https://t.me/flowwwie)
 - Email: [stanisryaz@ya.ru](mailto:{stanisryaz@ya.ru})
 - Phone: +7(906)749-21-11
