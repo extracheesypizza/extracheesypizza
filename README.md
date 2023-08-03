@@ -1,7 +1,5 @@
 # Stanislaw Ryazanov
 
-## Bio
-
 ## Contact me
 - Resume:
   - [In English](cv.pdf)
